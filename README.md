@@ -9,10 +9,10 @@ o Create a class named Shoes with the following attributes:
 ● product,
 ● cost, and
 ● Quantity.
-o Inside
-this class define the following function:
+
+Inside this class define the following function:
  
-     ▪ get_cost - which return the cost of the shoe
+ ▪ get_cost - which return the cost of the shoe
 ▪ get_quanty - which return the quantity of the shoes
 ▪ __str__ - This function returns a string representation of a class.
 o Outside this class create a variable with an empty list. This variable will be used to store a list of shoes objects
